@@ -1,0 +1,31 @@
+#blue {
+  background-color: rgb(60, 188, 205);
+  height: 100vh;
+  width: 33.333%;
+  float: left;
+}
+
+#mint {
+  background-color: rgb(134, 240, 208);
+  height: 100vh;
+  float: left;
+  width: 33.333%;
+}
+
+#green {
+  background-color: rgb(66, 213, 129);
+  height: 80vh;
+  width: 100%;
+}
+
+#red {
+  background-color: rgb(194, 40, 40);
+  height: 20vh;
+  width: 100%;
+}
+
+#placeholder {
+  height: 100vh;
+  width: 33.333%;
+  float:left;
+}

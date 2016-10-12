@@ -1,0 +1,57 @@
+#gray {
+  background-color: rgb(126, 126, 125);
+  width: 100vw;
+  height: 14vh;
+
+}
+
+#sky {
+  background-color: rgb(43, 181, 205);
+  width: 20vw;
+  height: 10vh;
+  float: left;
+  margin-left: 20px;
+  margin-top: 10px;
+
+}
+
+#white {
+  background-color: white;
+  font-family: monospace;
+  font-size: 60px;
+  width: 100vw;
+  height: 20vh;
+
+}
+
+.text {
+  text-align: center;
+  margin: 40px;
+}
+#blue {
+  background-color: rgb(19, 101, 198);
+  width: 100vw;
+  height: 14vh;
+
+}
+
+#mint {
+  background-color: rgb(102, 200, 130);
+  width: 100vw;
+  height: 14vh;
+
+}
+
+#tan {
+  background-color: rgb(189, 155, 106);
+  width: 100vw;
+  height: 14vh;
+
+}
+
+#yellow {
+  background-color: rgb(233, 236, 86);
+  width: 100vw;
+  height: 14vh;
+
+}
