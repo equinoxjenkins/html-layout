@@ -9,8 +9,9 @@ header {
 }
 
 .blue {
-  width: 10%;
+  width: 8%;
   margin: 10px;
+  margin-left: 20px;
   background-color: rgb(28, 158, 146);
 }
 
