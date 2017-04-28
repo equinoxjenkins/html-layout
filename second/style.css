@@ -2,34 +2,39 @@ body {
   margin: 0;
 }
 
+.container {
+  display: flex;
+  height: 100vh;
+}
+
 #blue {
   background-color: rgb(60, 188, 205);
-  height: 100vh;
+  height: 100%;
   width: 33.333%;
-  float: left;
+  /*float: left;*/
 }
 
 #mint {
   background-color: rgb(134, 240, 208);
-  height: 100vh;
-  float: left;
+  height: 100%;
+  /*float: left;*/
   width: 33.333%;
 }
 
 #green {
   background-color: rgb(66, 213, 129);
-  height: 80vh;
-  width: 100%;
+  height: 80%;
 }
 
 #red {
   background-color: rgb(194, 40, 40);
-  height: 20vh;
+  height: 20%;
   width: 100%;
 }
 
-#placeholder {
-  height: 100vh;
+.container-two {
+  height: 100%;
   width: 33.333%;
-  float:left;
+  display: flex;
+  flex-direction: column;
 }
